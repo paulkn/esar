@@ -1,9 +1,8 @@
 ---
 templateKey: index-page
-title: Overcome and live out Gods promises.
+title: An Army of Women Arising
 image: /img/esthers-bkgd.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
   description: >
