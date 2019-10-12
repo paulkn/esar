@@ -2,16 +2,13 @@
 
 // Config vars
 // Esther's Arise logo brand color: #2b1f5b
-$kaldi-red: #2b1f5b
-$kaldi-red-invert: #fff
+$esther-purple: #2b1f5b
+$esther-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$primary: $esther-purple
+$primary-invert: $esther-invert
 $body-color: #333
 $black: #2b2523
-
-.navbar .navbar-menu
-  box-shadow:none !important
 
 .content .taglist
   list-style: none
@@ -68,36 +65,18 @@ $black: #2b2523
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
+@import "~bulma"
+ 
 .margin-top-0
-  margin-top: 0 !important
-
-.navbar-item .icon
-  color: $primary
-// Override for use of svg's from https://simpleicons.org/
-.navbar-item
-  padding: 0.4rem 0.75rem
-.icon svg
-  width: 1.5rem
-  height: 1.5rem
-  fill: currentColor
-.navbar-brand .navbar-item.logo
-  padding: 0 1rem
-.navbar-item img
-  max-height: 3.60rem
-footer.footer
-  padding: 3rem 0rem 0rem
-  background-color: transparent
-
+  margin-top: 0
 //Menu overrides
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $primary-invert
+$menu-item-active-background-color:	$primary-invert
+$menu-list-border-left: 1px solid $primary-invert
 $menu-label-color: $white-ter
-
-
 .menu-label
   font-size: 1em !important
   text-align: left
@@ -115,7 +94,6 @@ $menu-label-color: $white-ter
     height: 1em
     vertical-align: middle
     display: inline
-
 // blog roll
 .blog-list-item.is-featured
   background-color: #d6400033;
@@ -125,10 +103,26 @@ $menu-label-color: $white-ter
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
-
-
-@import "~bulma"
-
+.navbar .navbar-menu
+  box-shadow:none !important
+.navbar-item .icon
+// Override for use of svg's from https://simpleicons.org/
+.navbar-item
+  padding: 0.4rem 0.75rem
+  font-weight: 500
+  font-size: 130%
+  color: $primary
+.icon svg
+  width: 1.5rem
+  height: 1.5rem
+  fill: currentColor
+.navbar-brand .navbar-item.logo
+  padding: 0 1rem
+.navbar-item img
+  max-height: 3.6rem
+footer.footer
+  padding: 3rem 0rem 0rem
+  background-color: whitesmoke
 
 // responsiveness
 +tablet-only
