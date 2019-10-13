@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
+import Content, { HTMLContent } from '../components/Content'
 
 export const IndexPageTemplate = ({
   image,
@@ -11,8 +12,13 @@ export const IndexPageTemplate = ({
   heading,
   mainpitch,
   description,
+  content,
+  contentComponent,
   intro,
-}) => (
+}) => {
+  const PageContent = contentComponent || Content
+
+return (
   <div>
     <div
       className="full-width-image margin-top-0"
@@ -60,6 +66,7 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
+                    <PageContent className="content" content={content} />
                   </div>
                 </div>
                 <div className="column is-12">
@@ -80,7 +87,7 @@ export const IndexPageTemplate = ({
       </div>
     </section>
   </div>
-)
+  )}
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -92,6 +99,8 @@ IndexPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
+  content: PropTypes.string,
+  contentComponent: PropTypes.func,
 }
 
 const IndexPage = ({ data }) => {
@@ -100,12 +109,14 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
+        contentComponent={HTMLContent}
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
+        content={frontmatter.html}
         intro={frontmatter.intro}
       />
     </Layout>
