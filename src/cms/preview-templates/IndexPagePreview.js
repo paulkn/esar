@@ -11,7 +11,6 @@ const IndexPagePreview = ({ entry, getAsset, widgetFor }) => {
         image={data.image}
         title={data.title}
         content={widgetFor('body')}
-        mainpitch={data.mainpitch || {}}
       />
     )
   } else {
@@ -23,7 +22,6 @@ IndexPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
-  getAsset: PropTypes.func,
   widgetFor: PropTypes.func,
 }
 
