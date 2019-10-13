@@ -1,3 +1,4 @@
+/*
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
@@ -104,3 +105,5 @@ export default () => (
     render={(data, count) => <BlogRoll data={data} count={count} />}
   />
 )
+
+*/
