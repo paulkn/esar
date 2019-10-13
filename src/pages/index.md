@@ -5,9 +5,9 @@ image: /img/esthers-bkgd.jpg
 ---
 # Overcome and live out Gods promises.
 
-## Would she, could she, dare to rise again?
+Would she, could she, dare to rise again?
 
-It was not because she got thrown to the ground and kicked in the shins or blacked out on the floor for the 50th time that cause her not to want to rise again. 
+It was not because she got thrown to the ground and kicked in the shins or blacked out on the floor for the 50th time that cause her not to want to rise again.
 
 It was not the unpredictable trauma or the many years of sickness or miscarriages that caused her not to want to rise again.  
 
