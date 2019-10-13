@@ -52,9 +52,6 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                       <div className="content">
                         <div className="content">
                           <div className="tile">
-                            <h1 className="title">{title}</h1>
-                          </div>
-                          <div className="tile">
                             <PageContent className="content" content={content} />
                           </div>
                         </div>
