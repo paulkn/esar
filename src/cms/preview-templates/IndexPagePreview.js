@@ -10,12 +10,8 @@ const IndexPagePreview = ({ entry, getAsset, widgetFor }) => {
       <IndexPageTemplate
         image={data.image}
         title={data.title}
-        heading={data.heading}
-        subheading={data.subheading}
-        description={data.description}
-        intro={data.intro || { blurbs: [] }}
-        mainpitch={data.mainpitch || {}}
         content={widgetFor('body')}
+        mainpitch={data.mainpitch || {}}
       />
     )
   } else {

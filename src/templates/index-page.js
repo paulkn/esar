@@ -9,7 +9,6 @@ import Content, { HTMLContent } from '../components/Content'
 export const IndexPageTemplate = ({
   image,
   title,
-  heading,
   mainpitch,
   description,
   content,
@@ -92,8 +91,6 @@ return (
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
   intro: PropTypes.shape({
@@ -112,8 +109,6 @@ const IndexPage = ({ data }) => {
         contentComponent={HTMLContent}
         image={frontmatter.image}
         title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         content={frontmatter.html}
@@ -145,24 +140,8 @@ export const pageQuery = graphql`
             }
           }
         }
-        heading
         mainpitch {
           title
-          description
-        }
-        description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
           description
         }
       }
