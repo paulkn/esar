@@ -3,7 +3,6 @@ templateKey: index-page
 title: An Army of Women Arising
 image: /img/esthers-bkgd.jpg
 ---
-### Content 
 ### Would she, could she, dare to rise again?
 
 
