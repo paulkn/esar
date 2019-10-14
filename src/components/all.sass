@@ -49,6 +49,23 @@ $black: #2b2523
     justify-content: center
     align-items: flex-start
 
+// Down Arrow
+.arrow
+  box-sizing: border-box
+  height: 5vw
+  width: 5vw
+  border-style: solid
+  border-color: $primary-invert
+  border-width: 0px 2px 2px 0px
+  transform: rotate(45deg)
+  transition: border-width 150ms ease-in-out
+.arrow:hover
+  border-bottom-width: 4px
+  border-right-width: 4px
+.arrow-wrap
+    position: absolute
+    bottom: 7%
+
 .btn
     display: inline-block
     padding: 12px 16px 10px

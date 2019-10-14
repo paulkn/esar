@@ -43,6 +43,11 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                   {title}
                 </h1>
               </div>
+              <div class="arrow-wrap">
+                <a data-scroll href="#full">
+                  <div class="arrow"></div>
+                </a>
+              </div>  
             </div>
             <section className="section section--gradient">
               <div className="container">
@@ -50,7 +55,7 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                   <div className="columns">
                     <div className="column is-10 is-offset-1">
                       <div className="content">
-                        <div className="content">
+                        <div className="content" id="full">
                           <div className="tile">
                             <PageContent className="content" content={content} />
                           </div>

@@ -6087,6 +6087,14 @@ gatsby-plugin-netlify-cms@^4.1.6:
     netlify-identity-widget "^1.5.5"
     webpack "^4.40.1"
 
+gatsby-plugin-netlify-identity-widget@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-identity-widget/-/gatsby-plugin-netlify-identity-widget-1.1.1.tgz#06fd3f4f927c07ff6e6d6247047f12ae11995c62"
+  integrity sha512-6uO7UCBduIED7McFlQY3rdS9N5uBCsywVO6abx8RfpVCwEnAdApHPy106oEVmfgeshmVLtfpniWfw2ckif+SXQ==
+  dependencies:
+    babel-runtime "^6.26.0"
+    netlify-identity-widget "^1.4.12"
+
 gatsby-plugin-netlify@^2.0.6:
   version "2.1.13"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify/-/gatsby-plugin-netlify-2.1.13.tgz#4775c027dfbaf2d103097cf3dd0bc6bd2f194ae5"
@@ -9821,7 +9829,7 @@ netlify-cms-widget-text@^2.2.3:
   dependencies:
     react-textarea-autosize "^7.1.0"
 
-netlify-identity-widget@^1.5.5:
+netlify-identity-widget@^1.4.12, netlify-identity-widget@^1.5.5:
   version "1.5.5"
   resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.5.5.tgz#e9ba8d7676263507106060236cf55c2992f425e4"
   integrity sha512-gCILbXMVn83TiRaiPCWk93ynyyYgxn8N/KoO+WOfyGZaNgq7gMMPtn7vo6VDe/ZczgyCn9DRlm3artNoj78/MQ==
