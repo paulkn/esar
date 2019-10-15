@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby' // Link
 import Layout from '../components/Layout'
+import { Link, animateScroll as scroll } from "react-scroll";
 // import BlogRoll from '../components/BlogRoll'
 import Content, { HTMLContent } from '../components/Content'
 
@@ -44,9 +45,16 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                 </h1>
               </div>
               <div class="arrow-wrap">
-                <a data-scroll href="#full">
+              <Link
+                  activeClass="active"
+                  to="full"
+                  spy={true}
+                  smooth={true}
+                  offset={-70}
+                  duration= {500}
+              >
                   <div class="arrow"></div>
-                </a>
+                </Link>
               </div>  
             </div>
             <section className="section section--gradient">
