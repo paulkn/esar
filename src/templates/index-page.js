@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby' // Link
 import Layout from '../components/Layout'
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 // import BlogRoll from '../components/BlogRoll'
 import Content, { HTMLContent } from '../components/Content'
 
