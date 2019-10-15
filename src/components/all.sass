@@ -9,6 +9,7 @@ $primary: $esther-purple
 $primary-invert: $esther-invert
 $body-color: #333
 $black: #2b2523
+$primary-alpha: adjust-color($esther-purple, $alpha: .65)
 
 .content .taglist
   list-style: none
@@ -92,7 +93,11 @@ $black: #2b2523
 @import "~bulma"
 
 body 
- font-size: 150%   
+ font-size: 150%
+h1 
+ color: $primary-invert
+ background-color: $primary-alpha
+ padding: 6px 18px   
 .margin-top-0
   margin-top: 0
 //Menu overrides
