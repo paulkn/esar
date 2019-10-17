@@ -3,7 +3,7 @@ templateKey: index-page
 title: An Army of Women Arising
 image: /img/esthers-bkgd.jpg
 ---
-# Overcome and live out Gods promises.
+## Overcome And Live Out Gods Promises.
 
 Would she, could she, dare to rise again?
 

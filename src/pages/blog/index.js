@@ -17,11 +17,12 @@ export default class BlogIndexPage extends React.Component {
             className="has-text-weight-bold is-size-1"
             style={{
               boxShadow:
-                'rgba(43, 31, 91, .64) 0.5rem 0px 0px, rgba(43, 31, 91, .64) -0.5rem 0px 0px',
-              backgroundColor: 'rgba(43, 31, 91, .64)',
+                'rgba(43, 31, 91, .24) 0.5rem 0px 0px, rgba(43, 31, 91, .24) -0.5rem 0px 0px',
+                backgroundColor: 'rgba(43, 31, 91, .24)',
               color: 'white',
               lineHeight: '1',
               padding: '0.25em',
+              margin: '2em 0 0',
                   }}
           >
             Latest Stories

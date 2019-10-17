@@ -57,7 +57,7 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
               <div class="arrow-wrap">
               <Link
                   activeClass="active"
-                  to="full"
+                  to="vision"
                   spy={true}
                   smooth={true}
                   offset={-70}
@@ -73,7 +73,7 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                   <div className="columns">
                     <div className="column is-10 is-offset-1">
                       <div className="content">
-                        <div className="content" id="full">
+                        <div className="content" id="vision">
                           <div className="tile">
                             <PageContent className="content" content={content} />
                           </div>
