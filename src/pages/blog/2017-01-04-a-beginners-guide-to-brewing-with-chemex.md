@@ -6,10 +6,10 @@ description: ' '
 featuredpost: false
 featuredimage: /img/gods-dna.jpg
 tags:
-  - brewing
-  - chemex
+  - DNA
+  - Abundant Life
 ---
-![chemex](/img/gods_dna.gif)
+![](/img/gods_dna.gif)
 
 I had a dream in 2009 that I was driving about the city and had to turn around. I saw two children running around near their mom.  I turned around and suddenly I saw the children under this car. One of the children I put on a table thinking the child was not breathing and then as I started praying, I saw the child turn from a child into DNA strands. The picture turned into a vision when the DNA or multiplying quickly at the moment of conception. I had spoken JESUS over the DNA, and then as I speak JESUS loudly, I can see the heart start beating in the middle of the DNA. I thought this child will live.  I couldn’t believe I could see the DNA multiply so rapidly. I then try to touch the DNA, and I hear a voice saying WAIT. And I wake up.
 
