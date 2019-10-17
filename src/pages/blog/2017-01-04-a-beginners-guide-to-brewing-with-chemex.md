@@ -2,28 +2,24 @@
 templateKey: blog-post
 title: A beginners’ guide to brewing with Chemex
 date: 2017-01-04T15:04:10.000Z
+description: >-
+  Brewing with a Chemex probably seems like a complicated, time-consuming
+  ordeal, but once you get used to the process, it becomes a soothing ritual
+  that's worth the effort every time.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/gods-dna.jpg
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/gods_dna.gif)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+I had a dream in 2009 that I was driving about the city and had to turn around. I saw two children running around near their mom.  I turned around and suddenly I saw the children under this car. One of the children I put on a table thinking the child was not breathing and then as I started praying, I saw the child turn from a child into DNA strands. The picture turned into a vision when the DNA or multiplying quickly at the moment of conception. I had spoken JESUS over the DNA, and then as I speak JESUS loudly, I can see the heart start beating in the middle of the DNA. I thought this child will live.  I couldn’t believe I could see the DNA multiply so rapidly. I then try to touch the DNA, and I hear a voice saying WAIT. And I wake up.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Jesus heartbeat is wrapped up in our very being. The only way to the Father is through Jesus Christ. The heartbeat of Jesus must be at the center of your DNA for you or your dreams to LIVE and be birthed. When we trust the Lords leadership, God can do what He purposed and created you for and has not forgotten what He put inside of you. Jesus revives the dream because it is His life and through Him that we live. We must recognize that from the beginning of time and at the moment of conception, He had a dream for you that we could partner with Him in.
 
-## The little secrets of Chemex brewing
+The question is what does He want you to partner with Him in? In unity with Him we can fulfill our calling and His plans and purposes for your life. Your dream already has wrapped in it the very heartbeat and desires of Jesus.  With the spoken word from God and Scriptures, and because Jesus died for you to live for eternity, you get to have life and life to the fullest. "For the enemy comes to steal, kill and destroy, but I have come to give you life and life to the full" John 10:10. Nothing can steal what God has placed inside of you, because God has called you to live life to the full. With the word of God you can be able to watch and see how God will unfold this dream or vision before your very eyes as you WAIT on Him.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+You carry the very life of the Holy Spirit within you, and He has what it takes for you to partner with Him to fulfill your calling. Remember to get the word of the Lord for you life, and to read the scriptures and understand what He is speaking. He has not forgotten you or your dreams because He already destined you from the beginning of time. Remember the vision that He placed in your lap to watch, wait on, and take care of. We are made and created in His image.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Our genetic make up and our DNA is replicated by Jesus life, both through Him and In Him!! "He is the image of the invisible God, the firstborn of all creation. For by Him all things were created things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities, all things were created for Him and by Him. He is before all things and in Him all things hold together" Colossions 1:15-17
