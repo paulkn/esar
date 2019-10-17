@@ -1,33 +1,23 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Eagles Be Released!
+date: 2012-09-06T15:22:10.000Z
+description: >-
+  I had a dream on March 18th 2015 that I saw Billy Graham standing on top of a
+  mountain and he released an eagle. As the eagle was released, suddenly I have
+  a vision of pockets of fire being lit up all across the nation. I saw the fire
+  pockets explode and rapidly spread.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/bald_eagle_spirit_flight_sky_wings_bird_animal_1440x900.jpg
 tags:
-  - flavor
-  - tasting
+  - Billy Graham
+  - Dreams
+  - Awakening
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/bald_eagle_spirit_flight_sky_wings_bird_animal_1440x900.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+In the next scene I am in a room at a table with Billy Graham.  He was sitting with me and a couple other people.  He was writing his will on a piece of paper. Suddenly I fell into travail and I felt the deep pain concerning the immorality in this nation, America. After that Billy Graham stood up and shook my hand.  He spoke to me without words and said "you have my heart".  He looked at me with his blue eyes and I felt the Father God's eyes looking into mine.  I felt like he was giving me something significant and with so much love in his heart.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Now is the time for the eagles to arise and be released to be all they were created to be!! As the eagles are released, fire pockets of His revival healing presence will light up all over the nation.  The bride of the Lord will carry out His voice!  The Father's will is that as you pray and travail over this nation and as you take a stand for righteousness and truth, that He will use you to be a voice for Him, to bring His love and presence to those that do not know Him. Revival fire will break out and an awakening is coming to America that we have never seen before! God is looking for those who have his heart and those who are willing to be released from the top of the mountain.  Now is the time! Esthers Arise!
 
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+"Those who "wait" or hope in the Lord will renew their strength , they will soar on wings like eagles; they will run and not grow weary, they will walk and not faint". Isaiah 40:31
