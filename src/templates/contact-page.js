@@ -1,6 +1,9 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
-import Layout from '../../components/Layout'
+import PropTypes from 'prop-types'
+import { graphql } from 'gatsby' // Link
+import Layout from '../components/Layout'
+import Hero from '../components/Hero'
 
 function encode(data) {
   return Object.keys(data)
@@ -8,7 +11,7 @@ function encode(data) {
     .join('&')
 }
 
-export default class Index extends React.Component {
+export class ContactPageTemplate extends React.Component {
   constructor(props) {
     super(props)
     this.state = { isValidated: false }
@@ -34,12 +37,13 @@ export default class Index extends React.Component {
   }
 
   render() {
+    const { title, image } = this.props
     return (
-      <Layout>
+      <div>
+        <Hero title={title} image={image} />
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
               <form
                 name="contact"
                 method="post"
@@ -109,7 +113,49 @@ export default class Index extends React.Component {
             </div>
           </div>
         </section>
-      </Layout>
+      </div>
     )
   }
 }
+
+
+ContactPageTemplate.propTypes = {
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  title: PropTypes.string,
+}
+
+const ContactPage = ({ data }) => {
+  const { markdownRemark: post } = data
+
+  return (
+    <Layout>
+      <ContactPageTemplate
+        image={post.frontmatter.image}
+        title={post.frontmatter.title}
+      />
+    </Layout>
+  )
+}
+
+ContactPage.propTypes = {
+  data: PropTypes.object.isRequired,
+}
+
+export default ContactPage
+
+export const pageQuery = graphql`
+  query ContactPageTemplate($id: String!) {
+    markdownRemark(id: { eq: $id }) {
+      frontmatter {
+        title
+        image {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
+      }
+    }
+  }
+`
