@@ -45,7 +45,7 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                   {title}
                 </h1>
               </div>
-              <div class="text-loop">
+              <div className="text-loop">
                 <h2 style={{ textAlign: "center" }}>
                   <TextLoop>
                       <div>A Promise To Overcome</div>
@@ -54,7 +54,7 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                   </TextLoop>
                 </h2>
               </div>
-              <div class="arrow-wrap">
+              <div className="arrow-wrap">
               <Link
                   activeClass="active"
                   to="vision"
@@ -63,7 +63,7 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                   offset={-70}
                   duration= {500}
               >
-                  <div class="arrow"></div>
+                  <div className="arrow"></div>
                 </Link>
               </div>  
             </div>
@@ -127,7 +127,7 @@ IndexPage.propTypes = {
 export default IndexPage
 
 export const pageQuery = graphql`
-  query IndexPage($id: String!) {
+  query IndexPageTemplate($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
