@@ -11,7 +11,7 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
   const PageContent = contentComponent || Content
 
   return (
-          <div>
+          <div className="home">
             <div
               className="full-width-image margin-top-0"
               style={{

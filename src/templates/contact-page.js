@@ -1,7 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import PropTypes from 'prop-types'
-import { graphql } from 'gatsby' // Link
+import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Hero from '../components/Hero'
 
@@ -39,7 +39,7 @@ export class ContactPageTemplate extends React.Component {
   render() {
     const { title, image } = this.props
     return (
-      <div>
+      <div className="contact">
         <Hero title={title} image={image} />
         <section className="section">
           <div className="container">
