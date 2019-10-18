@@ -40,6 +40,7 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
                     lineHeight: '1',
                     padding: '0.25em',
                     margin: '2em 0 0',
+                    textAlign: 'canter',
                   }}
                 >
                   {title}
