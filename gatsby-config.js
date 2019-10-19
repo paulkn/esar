@@ -66,7 +66,7 @@ module.exports = {
       options: {
         trackingId: "UA-150412403-1",
         // Defines where to place the tracking script - `true` in the head and `false` in the body
-        head: false,
+        head: true,
         // Setting this parameter is optional
         anonymize: false,
         // Setting this parameter is also optional
@@ -84,7 +84,7 @@ module.exports = {
         // Any additional optional fields
         sampleRate: 5,
         siteSpeedSampleRate: 10,
-        cookieDomain: "google.com",
+        // cookieDomain: "example.com",
       },
     },
     {
