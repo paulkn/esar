@@ -49,7 +49,7 @@ The Father is keeping His promises to His daughters. He is faithful to the end, 
 
 Esther fasted and prayed to change a nation. In the same way, the Lord is saying to His daughters in this hour, “You are an Esther and you will change a nation!”
 
-Daughters of the Father: Together, will we rise?
+Daughters of the Father: Together, will you rise?
 
 Together, we will rise!
 
@@ -57,5 +57,5 @@ The Father knows that you have been called for such a time as this.
 
 The Lord is inviting all women to rise up, overcome, and live out God's promises for their lives. 
 
-Esthers, arise!
+Esthers Arise!
 
