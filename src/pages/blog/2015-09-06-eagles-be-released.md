@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Eagles Be Released!
-date: 2012-09-06T15:22:00.000Z
+date: 2015-09-06T15:22:00.000Z
 description: '  '
 featuredpost: false
 featuredimage: /img/bald_eagle_spirit_flight_sky_wings_bird_animal_1440x900.jpg
@@ -10,7 +10,7 @@ tags:
   - Dreams
   - Awakening
 ---
-![eagle](/img/bald_eagle_spirit_flight_sky_wings_bird_animal_1440x900.jpg)
+![soaring eagle](/img/bald_eagle_spirit_flight_sky_wings_bird_animal_1440x900.jpg)
 
 I had a dream on March 18th 2015 that I saw Billy Graham standing on top of a mountain and he released an eagle. As the eagle was released, suddenly I have a vision of pockets of fire being lit up all across the nation. I saw the fire pockets explode and rapidly spread.
 
@@ -18,4 +18,4 @@ In the next scene I am in a room at a table with Billy Graham.  He was sitting w
 
 Now is the time for the eagles to arise and be released to be all they were created to be!! As the eagles are released, fire pockets of His revival healing presence will light up all over the nation.  The bride of the Lord will carry out His voice!  The Father's will is that as you pray and travail over this nation and as you take a stand for righteousness and truth, that He will use you to be a voice for Him, to bring His love and presence to those that do not know Him. Revival fire will break out and an awakening is coming to America that we have never seen before! God is looking for those who have his heart and those who are willing to be released from the top of the mountain.  Now is the time! Esthers Arise!
 
-"Those who "wait" or hope in the Lord will renew their strength , they will soar on wings like eagles; they will run and not grow weary, they will walk and not faint". Isaiah 40:31
+"Those who "wait" or hope in the Lord will renew their strength, they will soar on wings like eagles; they will run and not grow weary, they will walk and not faint". Isaiah 40:31
