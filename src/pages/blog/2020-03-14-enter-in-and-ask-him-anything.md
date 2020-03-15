@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'ENTER IN '
+title: Enter In
 date: 2020-03-14T18:06:29.826Z
 description: '“UP TO HALF MY KINGDOM I WILL GIVE YOU”. ESTHER 5:3'
 featuredpost: true
