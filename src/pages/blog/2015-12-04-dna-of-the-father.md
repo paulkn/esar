@@ -3,7 +3,7 @@ templateKey: blog-post
 title: DNA Of The Father
 date: 2015-12-04T15:10:00.000Z
 description: ' '
-featuredpost: true
+featuredpost: false
 featuredimage: /img/gods-dna.jpg
 tags:
   - DNA
