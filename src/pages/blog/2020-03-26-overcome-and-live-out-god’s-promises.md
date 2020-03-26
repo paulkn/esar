@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Overcome and Live out God’s promises '
+title: 'Overcome and live out God’s promises '
 date: 2020-03-27T21:22:30.050Z
 description: WOULD SHE COULD SHE DARE TO RISE AGAIN?
 featuredpost: false
