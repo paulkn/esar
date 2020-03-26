@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: OVERCOME AND LIVE  OUT GOD’s PROMISES
+title: OVERCOME AND LIVE  OUT GOD’S PROMISES
 date: 2020-03-27T21:22:30.050Z
 description: WOULD SHE COULD SHE DARE TO RISE AGAIN?
 featuredpost: false
