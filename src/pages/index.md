@@ -11,7 +11,7 @@ Shame kept her down to the ground and fear that she would ever be protected for 
 
 ### What was she really up against?  Was the enemy trying to steal her very destiny?
 
-Was she going to be that warrior she had dreamed about? Armor on, sword in hand, unafraid of anything...
+Was she going to be that warrior she had dreamed about? Armor on, sword in hand, unafraid of anything.
 
 Was she going to hold on to the word of God in her heart, the things He had spoken to her and the dreams and visions He had given her?
 
@@ -35,7 +35,7 @@ Daughters of the Father: Together, will you rise?
 
 Together, we will rise!
 
-The Father knows that you have been called FOR SUCH A  TIME AS THIS.
+The Father knows that you have been called FOR SUCH A  TIME AS THIS.  Esther 4:14
 
 The Lord is inviting all women to rise up, overcome, and bring revival to nations.
 
