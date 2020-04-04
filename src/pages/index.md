@@ -37,6 +37,6 @@ Together, we will rise!
 
 The Father knows that you have been called FOR SUCH A  TIME AS THIS.  Esther 4:14
 
-The Lord is inviting all women to rise up, overcome, and bring revival to nations.
+The Lord is inviting all women to rise up, overcome, and live out God’s promises.
 
 Esthers Arise!
