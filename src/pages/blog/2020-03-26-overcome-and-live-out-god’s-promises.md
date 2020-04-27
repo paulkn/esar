@@ -4,7 +4,7 @@ title: 'Overcome and live out God’s promises '
 date: 2020-03-27T21:22:30.050Z
 description: WOULD SHE COULD SHE DARE TO RISE AGAIN?
 featuredpost: false
-featuredimage: /img/437196c7-ed3e-4617-b275-15543c27743c.jpeg
+featuredimage: /img/853558aa-d058-48c1-a53a-9a5b963885e0.jpeg
 tags:
   - RISE AGAIN
   - ESTHERS ARISE
