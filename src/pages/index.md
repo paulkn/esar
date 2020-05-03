@@ -29,6 +29,8 @@ The Father is keeping His promises to His daughters. He is faithful to the end, 
 * the promise of answered prayer 
 * the promise of a revival among women 
 
+
+
 Esther fasted and prayed to change a nation. In the same way, the Lord is saying to His daughters in this hour, “You are an Esther and you will change a nation!”
 
 Daughters of the Father: Together, will you rise?
@@ -37,6 +39,6 @@ Together, we will rise!
 
 The Father knows that you have been called FOR SUCH A  TIME AS THIS.  Esther 4:14
 
-The Lord is inviting all women to rise up, overcome, and live out God’s promises.
+The Lord is inviting all women to rise up, overcome, and say “yes” to Jesus at all costs.
 
 Esthers Arise!
