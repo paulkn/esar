@@ -3,7 +3,7 @@ templateKey: index-page
 title: An Army of Women Arising
 image: /img/esthers-bkgd.jpg
 ---
-## Overcome And Live Out Gods Promises.
+## Overcoming And Living Out God’s Promises!
 
 Would she, could she dare to rise again?
 
@@ -28,8 +28,6 @@ The Father is keeping His promises to His daughters. He is faithful to the end, 
 * the promise of healing taking place and captives being set free  
 * the promise of answered prayer 
 * the promise of a revival among women 
-
-
 
 Esther fasted and prayed to change a nation. In the same way, the Lord is saying to His daughters in this hour, “You are an Esther and you will change a nation!”
 
