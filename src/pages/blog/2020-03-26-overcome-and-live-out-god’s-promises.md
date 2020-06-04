@@ -21,6 +21,6 @@ Daughters of the Father: Together, will you rise?  Together, we will rise!
 
 The Father knows that you have been called for such a time as this.
 
-The Lord is inviting all women to rise up, overcome, and live out God's promises.
+The Lord is inviting all women to rise up, overcome, and say yes to Jesus at all costs.  
 
 Esthers Arise!
