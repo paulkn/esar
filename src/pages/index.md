@@ -3,7 +3,7 @@ templateKey: index-page
 title: Women Arising
 image: /img/esthers-bkgd.jpg
 ---
-## Overcoming And Living Out God’s Promises!
+## Overcoming And Saying ‘yes’ to Jesus at all costs.
 
 Would she, could she dare to rise again?
 
@@ -37,6 +37,6 @@ Together, we will rise!
 
 The Father knows that you have been called FOR SUCH A  TIME AS THIS.  Esther 4:14
 
-The Lord is inviting all watchwomen to rise up, overcome, and say “yes” to Jesus at all costs.
+The Lord is inviting all women to rise up, overcome, and say “yes” to Jesus at all costs.
 
 Esthers Arise!
