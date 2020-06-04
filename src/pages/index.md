@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: An Army of Women Arising
+title: Women Rising
 image: /img/esthers-bkgd.jpg
 ---
 ## Overcoming And Living Out God’s Promises!
