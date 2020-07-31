@@ -3,7 +3,7 @@ templateKey: about-page
 title: About us
 image: /img/blog-index.jpg
 ---
-![Paul & Nancy](/img/paulandnancy.jpg "Paul & Nancy")
+![Paul & Nancy](/img/paulandnancy.jpeg "Paul & Nancy")
 
 ### PAUL & NANCY
 
