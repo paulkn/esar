@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: AS REVIVAL INCREASES SO ABORTION WILL END
+title: As revival increases so abortion will end.
 date: 2020-08-03T18:38:48.212Z
 description: HAD A DREAM ABOUT THE ENDING OF ABORTION
 featuredpost: false
