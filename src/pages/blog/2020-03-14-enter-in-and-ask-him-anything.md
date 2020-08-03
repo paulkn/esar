@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Enter In
 date: 2020-03-14T18:06:29.826Z
 description: '“UP TO HALF MY KINGDOM I WILL GIVE YOU”. ESTHER 5:3'
-featuredpost: true
+featuredpost: false
 featuredimage: /img/40587c90-50ca-4172-9189-eebbb4e74778.jpeg
 tags:
   - ESTHERS ARISE
