@@ -3,7 +3,7 @@ templateKey: blog-post
 title: AS REVIVAL INCREASES SO ABORTION WILL END
 date: 2020-08-03T18:38:48.212Z
 description: HAD A DREAM ABOUT THE ENDING OF ABORTION
-featuredpost: true
+featuredpost: false
 featuredimage: /img/76790712-0a77-4721-b229-b927170595b1.jpg
 tags:
   - Revival Life Jesus Holy Spirit  Pro-Life God
