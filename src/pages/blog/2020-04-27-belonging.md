@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'Belonging '
 date: 2020-04-27T22:33:21.932Z
 description: 'Belonging to Him '
-featuredpost: true
+featuredpost: false
 featuredimage: /img/dc7a616e-b63b-4812-9481-10afca7c07a9.jpeg
 tags:
   - Belonging
