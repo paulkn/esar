@@ -20,9 +20,9 @@ I believe with my whole heart that REVIVAL equals REPENTANCE
 
 And that REPENTANCE equals CHANGE.
 
-Without a serious repentance of the church body and the bride of Christ regarding the abortion we will not see the ending of abortion. 
+Without a serious repentance of the church body and the bride of Christ regarding abortion we will not see the ending of abortion in this nation.
 
-Serious word but it’s true.  We must NOW partner with him for the greatest revival in the earth and the ending of abortion.  We are at a turning point, a reset time, we get to choose what we will do.
+Serious word  to the church but it’s true.  We must NOW partner with him for the greatest revival in the earth and the ending of abortion.  We are at a turning point, a reset time, we get to choose what we will do.
 
   Because of the Holy Spirit who is within us, we can declare that in a moment things can turn around surpernaturally.  God is giving us a  promise about revival and the ending of abortion.  I believe many promises are coming to pass in the midst of the greatest revival that we have ever seen before.
 
