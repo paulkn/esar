@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Women Arising
-image: /img/esthers-bkgd.jpg
+image: /img/estherx2.jpg
 ---
 ## Overcoming And Saying ‘yes’ to Jesus at all costs.
 
