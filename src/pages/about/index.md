@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: About us
-image: /img/blog-index.jpg
+image: /img/b-white-flowers.png
 ---
 ![Paul & Nancy](/img/paulandnancy.jpeg "Paul & Nancy")
 
