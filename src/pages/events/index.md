@@ -1,7 +1,7 @@
 ---
 templateKey: events-page
 title: Events
-image: /img/blog-index.jpg
+image: /img/b-white-flowers.png
 ---
 # **Intercession and Worship**
 

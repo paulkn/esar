@@ -1,7 +1,7 @@
 ---
 templateKey: donate-page
 title: Donate
-image: /img/blog-index.jpg
+image: /img/b-white-flowers.png
 ---
 ### PARTNER WITH US
 
