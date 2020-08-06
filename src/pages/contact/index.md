@@ -1,6 +1,6 @@
 ---
 templateKey: contact-page
 title: Contact
-image: /img/blog-index.jpg
+image: /img/b-white-flowers.png
 ---
 

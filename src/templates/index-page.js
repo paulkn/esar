@@ -32,13 +32,6 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
               >
                 <h1
                   className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-                  style={{
-                    color: 'white',
-                    lineHeight: '1',
-                    padding: '0.25em',
-                    margin: '2em 0 0',
-                    textAlign: 'canter',
-                  }}
                 >
                   {title}
                 </h1>
