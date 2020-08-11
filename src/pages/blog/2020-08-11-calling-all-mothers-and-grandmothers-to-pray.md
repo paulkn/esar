@@ -4,7 +4,7 @@ title: Calling all mothers and grandmothers to pray
 date: 2020-08-11T11:11:14.454Z
 description: 'Your prayers are of greatest importance! '
 featuredpost: true
-featuredimage: /img/adac8b7f-5e61-4dc1-9e6c-5512de65fce1.jpeg
+featuredimage: /img/1b555ae7-5e7d-4f0e-8912-0ad842266a0d.jpeg
 tags:
   - Mothers grandmothers prayer
 ---
