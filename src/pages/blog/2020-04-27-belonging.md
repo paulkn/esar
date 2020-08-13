@@ -25,22 +25,22 @@ He is not confused about seasons, about death, about shedding leaves in the wint
 
 Have you ever found yourself clinging, hoarding, hiding. 
 
-Hoping to somehow escape the process, somehow wanting to arrive at healing at an unprecedented speed.
+Hoping to somehow escape the process or tests or trials. 
 
- I want to be the exception in a lot of ways to God’s process over my own heart and mind. 
+I want to be the exception in a lot of ways to God’s process over my own heart and mind.  But I can trust his leadership over my life no matter what the circumstances. 
 
-I’ve spent hours, more than I can name crying out for God’s justice over my family, for God’s justice over broken relationships, for God’s justice over women and the role they play on the earth. 
+I’ve spent hours, more than I can name crying out for God’s justice over my family, for God’s justice over women and the role they play on the earth. 
 
-In the midst of my hardship I have felt the Father lean in and say, trust me. This is a season of belonging.
+In the midst of hardship I have felt the Father lean in and say, trust me. This is a season of belonging and deetp love.
 
- In the noise, and the pain,  God doesn't offer acceleration he offers belonging. How can I belong to this season of isolation? How can I belong to this season of voicelessness? How can I belong to a season of sorrow? Yet the Lord says, “ I am close to the broken hearted.” I belong to Him 
+ In the noise and the pain,  God doesn't offer acceleration he offers His heart and love.   How can I belong in a  season of isolation, voicelessness or sorrow? Yet the Lord says, “ I am close to the broken hearted.”
 
-Not as a version of perfectionism,  but I belong to Him.   To the Prince of Peace, to the one I’ve said yes to time and time again. I can belong  and rest in Him. 
+I belong to Jesus , to the one I’ve said yes to time and time again. I belong and rest in Him. 
 
-He isn’t interested in my movement, unless it moves me closer to Him . 
+He isn’t interested in a movement or ministry unless it moves me and others closer to Him.
 
 His love for me and desire for relationship with me is not content to remain on the sidelines.
 
-He never promised a pain free, triumphant life when He desired a relationship with me. He knew the level of pain and anguish that life can carry, so he promised to go with me. So much so that he sent His only Son so that I wouldn't have to bear the weight alone. 
+He never promised a pain free, triumphant life when He desired a relationship with me. 
 
-He’s training me and preparing me with a yoke that’s easy and light. He carries the heavy part of the yoke and I get to learn from Him.
+Jesus is training me and preparing me with a yoke that’s easy and light. He carries the heavy part of the yoke and I get to learn from Him.
