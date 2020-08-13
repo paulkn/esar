@@ -31,7 +31,7 @@ I want to be the exception in a lot of ways to God’s process over my own heart
 
 I’ve spent hours, more than I can name crying out for God’s justice over my family, for God’s justice over women and the role they play on the earth. 
 
-In the midst of hardship I have felt the Father lean in and say, trust me. This is a season of belonging and deetp love.
+In the midst of hardship I have felt the Father lean in and say, trust me. This is a season of belonging and love.
 
  In the noise and the pain,  God doesn't offer acceleration he offers His heart and love.   How can I belong in a  season of isolation, voicelessness or sorrow? Yet the Lord says, “ I am close to the broken hearted.”
 
