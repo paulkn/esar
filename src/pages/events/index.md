@@ -5,7 +5,7 @@ image: /img/b-white-flowers.png
 ---
 # **Intercession and Worship**
 
-## Charlotte, NC - 08/08/2020
+## Raleigh, NC - 09/12/2020
 
 **A day for the watchwomen to come together for intercession & worship for America**
 
@@ -17,4 +17,4 @@ We are women that travail and cry out together.
 
 The time is now.
 
-[Find out more and register here.](https://www.eventbrite.com/e/esthers-arise-intercession-and-worship-tickets-112813949560?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing)
+[Find out more and register here.](https://givebutter.com/esthers-arise-raleigh)
