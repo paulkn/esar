@@ -105,7 +105,7 @@ export class ContactPageTemplate extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <button className="btn" type="submit">
+                  <button className="btn is-pulled-right" type="submit">
                     Send
                   </button>
                 </div>
