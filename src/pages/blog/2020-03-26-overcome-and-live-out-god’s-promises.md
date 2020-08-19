@@ -9,6 +9,7 @@ tags:
   - RISE AGAIN
   - ESTHERS ARISE
 ---
+![soaring eagle](/img/853558aa-d058-48c1-a53a-9a5b963885e0.jpeg)
 Many women have been fighting for their lives, fighting for their destinies, and looking to the Lord for their breakthrough.The time is now!
 
 The Father is keeping His promises to His daughters. 
