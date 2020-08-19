@@ -13,7 +13,7 @@ tags:
   - love of God
   - father
 ---
-![soaring eagle](/img/dc7a616e-b63b-4812-9481-10afca7c07a9.jpeg)
+![You Belong](/img/dc7a616e-b63b-4812-9481-10afca7c07a9.jpeg)
 It’s late at night and I find myself awake at times, with no plans of going to sleep in the foreseeable future. 
 
 Maybe I have felt “forged” by fire. 
