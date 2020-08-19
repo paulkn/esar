@@ -8,7 +8,6 @@ featuredimage: /img/76790712-0a77-4721-b229-b927170595b1.jpg
 tags:
   - Revival Life Jesus Holy Spirit  Pro-Life God
 ---
-![baby feet](/img/76790712-0a77-4721-b229-b927170595b1.jpg)
 I almost shook out of my bed after a dream I had because the presence of God came over me in the most intense way that I had not felt before.
 
 We were in a stadium gathering and I was hearing this word in my heart while walking through the crowd to standing on stage.
@@ -21,9 +20,7 @@ I believe with my whole heart that REVIVAL equals REPENTANCE
 
 And that REPENTANCE equals CHANGE.
 
-Without a serious repentance of the church body and the bride of Christ regarding abortion we will not see the ending of abortion in this nation.
-
-Serious word  to the church but it’s true.  We must NOW partner with him for the greatest revival in the earth and the ending of abortion.  We are at a turning point, a reset time, we get to choose what we will do.
+We must NOW partner with him for the greatest revival in the earth and the ending of abortion.  We are at a turning point, a reset time, we get to choose what we will do.
 
   Because of the Holy Spirit who is within us, we can declare that in a moment things can turn around surpernaturally.  God is giving us a  promise about revival and the ending of abortion.  I believe many promises are coming to pass in the midst of the greatest revival that we have ever seen before.
 
