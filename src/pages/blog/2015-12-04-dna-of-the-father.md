@@ -9,8 +9,7 @@ tags:
   - DNA
   - Abundant Life
 ---
-![](/img/gods_dna.gif)
-
+![DNA of God](/img/gods_dna.gif)
 I had a dream in 2009 that I was driving about the city and had to turn around. I saw two children running around near their mom.  I turned around and suddenly I saw the children under this car. One of the children I put on a table thinking the child was not breathing and then as I started praying, I saw the child turn from a child into DNA strands. The picture turned into a vision when the DNA or multiplying quickly at the moment of conception. I had spoken JESUS over the DNA, and then as I speak JESUS loudly, I can see the heart start beating in the middle of the DNA. I thought this child will live.  I couldn’t believe I could see the DNA multiply so rapidly. I then try to touch the DNA, and I hear a voice saying WAIT. And I wake up.
 
 Jesus heartbeat is wrapped up in our very being. The only way to the Father is through Jesus Christ. The heartbeat of Jesus must be at the center of your DNA for you or your dreams to LIVE and be birthed. When we trust the Lords leadership, God can do what He purposed and created you for and has not forgotten what He put inside of you. Jesus revives the dream because it is His life and through Him that we live. We must recognize that from the beginning of time and at the moment of conception, He had a dream for you that we could partner with Him in.
