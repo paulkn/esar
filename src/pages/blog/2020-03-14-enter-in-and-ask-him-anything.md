@@ -10,6 +10,7 @@ tags:
   - ENTER IN THE COURT
   - WOMEN ARISE
 ---
+![soaring eagle](/img/40587c90-50ca-4172-9189-eebbb4e74778.jpeg)
 I think of Esther. Standing in the hallway right before she faces the King. I imagine her heart beating out of her chest, palms maybe a bit sweaty. She’s probably thinking through the events that lead to this moment. Probably wondering how in the world she got to this place. Remembering being smuggled out of her own war torn country, moving in with Mordecai, entering into a nationwide search for a new queen and now here she stood. About to face the King,  knowing that the time had come for her to step into a divine purpose she had felt for so long. 
 
 The mix of fear and strength. Knowing that she was about to shape the course of history. 
