@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Calling all mothers and grandmothers to pray
 date: 2020-08-11T11:11:14.454Z
 description: 'Your prayers are of greatest importance! '
-featuredpost: true
+featuredpost: false
 featuredimage: /img/1b555ae7-5e7d-4f0e-8912-0ad842266a0d.jpeg
 tags:
   - Mothers grandmothers prayer
