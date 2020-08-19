@@ -8,6 +8,7 @@ featuredimage: /img/1b555ae7-5e7d-4f0e-8912-0ad842266a0d.jpeg
 tags:
   - Mothers grandmothers prayer
 ---
+![Praying Woman](/img/1b555ae7-5e7d-4f0e-8912-0ad842266a0d.jpeg)
 Had a dream recently that I was prophesying over a prophet in the nation of America and I said “your mother prayed for your calling that is why you are here now”. And I knew that his mother’s prayers made the biggest impact on his destiny but he didn’t know it. 
 
 In the dream I was saying the reason most mothers and grandmothers are not in the prayer room is because of fatigue. 
