@@ -7,4 +7,4 @@ image: /img/b-white-flowers.png
 
 Thank you so much for partnering with us! Click the button below to go to our donation platform (givebutter).
 
-<button class="btn" onclick="document.location='https://givebutter.com/esthers-arise'">Donate</button>
+<button class="btn is-pulled-right" onclick="document.location='https://givebutter.com/esthers-arise'">Donate</button>
