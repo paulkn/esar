@@ -17,4 +17,4 @@ We are women that travail and cry out together.
 
 The time is now.
 
-[Find out more and register here.](https://givebutter.com/esthers-arise-raleigh)
+<button class="btn is-pulled-right" onclick="document.location='https://givebutter.com/esthers-arise-raleigh'">Donate</button>
