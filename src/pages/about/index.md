@@ -13,7 +13,7 @@ Esthers are empowered to overcome every obstacle!  They pass the tests, persever
 
 ## Saying Yes
 
-Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily obey Jesus and love him wholeheartedly.  They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.
+Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily and willingly obeys Jesus and loves him wholeheartedly.  They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.
 
 ## TEAM
 
@@ -21,4 +21,4 @@ Saying yes means laying down your life for Jesus at all costs. Esthers voluntari
 
 ### PAUL & NANCY
 
-Paul and Nancy met at the International House of Prayer in Kansas City. Paul is from Virginia and Nancy is from Ontario, Canada. They have both been in leadership with local churches, movements, on campus, and in houses of prayer for over 15 years.   Both Paul and Nancy feel called to be a voice to raise up women that like the prophet Ezekiel  stand as watchwomen on the wall.  He is gathering the intercessors together in the nation.   The desire of the Lord's heart for women to be released and be set free from bondage in this hour is critical to the fullness of what God is doing in the earth and making a bride ready for the return of Jesus.   Esthers Arise mission is to empower women to fulfill God's promises in their lives through preparation, partnership, and obedience to our Lord Jesus Christ.  The Lord is inviting women to rise up like Esther for such a time as this.   Paul and Nancy reside in Raleigh, North Carolina and have two sons Jeremiah and Daniel.
+Paul and Nancy met at the International House of Prayer in Kansas City. Paul is from Virginia and Nancy is from Ontario, Canada. They have both been in leadership with local churches, movements, on campus, and in houses of prayer for over 15 years.   Both Paul and Nancy feel called to be a voice to raise up women that like Esther stand as watchwomen on the wall in the courtroom of heaven.  He is gathering the intercessors together in the nation.   The desire of the Lord's heart for women to be released and be set free from bondage in this hour is critical to the fullness of what God is doing in the earth and making a bride ready for the return of Jesus.   Esthers Arise mission is to empower women to fulfill God's promises in their lives through preparation, partnership, and obedience to our Lord Jesus Christ.  The Lord is inviting women to rise up like Esther for such a time as this.   Paul and Nancy reside in Raleigh, North Carolina and have two sons Jeremiah and Daniel.
