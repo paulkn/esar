@@ -10,7 +10,7 @@ tags:
   - Dreams
   - Awakening
 ---
-![soaring eagle](/img/bald_eagle_spirit_flight_sky_wings_bird_animal_1440x900.jpg)
+![](/img/bald_eagle_spirit_flight_sky_wings_bird_animal_1440x900.jpg)
 
  As the eagle was released, suddenly I have a vision of pockets of fire being lit up all across the nation. I saw the fire pockets explode and rapidly spread.
 
