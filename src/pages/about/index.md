@@ -3,7 +3,7 @@ templateKey: about-page
 title: About
 image: /img/b-white-flowers.png
 ---
-![Paul & Nancy](/img/paulandnancy.jpeg "Paul & Nancy")
+![Paul & Nancy](/img/knopp-family-w.jpeg "Paul & Nancy")
 
 ### PAUL & NANCY
 
