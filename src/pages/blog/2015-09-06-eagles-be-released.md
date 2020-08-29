@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Eagles Be Released!
 date: 2015-09-06T15:22:00.000Z
-description: '  I had a dream on March 18th 2015 that I saw Billy Graham standing on top of a mountain and he released an eagle.'
+description: '  I had a dream on March 18th 2015 that I saw Billy Graham standing on top of the Carolina mountains and he released an eagle.'
 featuredpost: false
 featuredimage: /img/bald_eagle_spirit_flight_sky_wings_bird_animal_1440x900.jpg
 tags:
