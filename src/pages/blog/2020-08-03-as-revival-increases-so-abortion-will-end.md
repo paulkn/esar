@@ -16,7 +16,7 @@ We were in a stadium gathering and I was hearing this word in my heart while wal
 
 As I walked through the crowd,  I was saying in my spirit with the Lord  speaking to me from Isaiah 66:7-9 "Before she was in labor she gave birth, does God bring you to the moment of birth and not cause delivery”.    And then the scene shifted, I heard the Lord speaking while standing on stage.  "Not by might or power but by the spirit of the Lord".    Zechariah 4: 6.   And in the dream Lou Engle a prophet in the United States that stood for the end of abortion for over 30 years hands me a mic on stage in front of thousands and thousands of people and I hear “speak this word” really loud.  Then I hear the Lord say "AS REVIVAL INCREASES, SO ABORTION WILL END". And I woke up shaking with the presence of the Lord.   
 
-What I realize as the years have past is that God is preparing the bride of Christ for the greatest revival we have ever seen.  And part of that revival equals the ending of abortion.
+God is preparing the bride of Christ for the greatest revival we have ever seen.  And part of that revival equals the ending of abortion.
 
 I believe with my whole heart that REVIVAL equals REPENTANCE
 
@@ -26,7 +26,7 @@ We must NOW partner with him for the greatest revival in the earth and the endin
 
 Because of the Holy Spirit who is within us, we can declare that in a moment things can turn around surpernaturally.  God is giving us a  promise about revival and the ending of abortion.  I believe many promises are coming to pass in the midst of the greatest revival that we have ever seen before.
 
- In accordance with the dream I believe that Zechariah 4:6 is saying this revival and the ending of abortion will “not be by power or might but by the Spirit of the Lord”    So right now we are praying for the Spirit of God to move among us.  Right now we are praying for a fresh encounter of God’s presence.   Right now we are praying that principalities of molek , witchcraft, and jezebel come down.  Right now we are repenting on behalf of the nation against murder and the blood that has been shed.
+ In accordance with the dream I believe that Zechariah 4:6 is saying this revival and the ending of abortion will “not be by power or might but by the Spirit of the Lord”    So right now we are praying for the Spirit of God to move among us.  Right now we are praying for a fresh encounter of God’s presence.   
 
 God is saying AS REVIVAL INCREASES SO ABORTION WILL END.  Do you believe it!?  I am coming into agreement with the Lords heart for His people.
 
