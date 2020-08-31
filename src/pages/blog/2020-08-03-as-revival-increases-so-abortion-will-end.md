@@ -14,8 +14,8 @@ I almost shook out of my bed after a dream I had because the presence of God cam
 
 We were in a stadium gathering and I was hearing this word in my heart while walking through the crowd to standing on stage.
 
-As I walked through the crowd,  I was saying in my spirit with the Lord  speaking to me from Isaiah 66:7-9 "Before she was in labor she gave birth, does God bring you to the moment of birth and not cause delivery”.    And then the scene shifted, I heard the Lord speaking while standing on stage.  "Not by might or power but by the spirit of the Lord".    Zechariah 4: 6.   And in the dream Lou Engle a prophet in the United States that stood for the end of abortion for over 30 years hands me a mic on stage in front of thousands and thousands of people and I hear “speak this word” really loud.  Then I hear the Lord say "AS REVIVAL INCREASES, SO ABORTION WILL END". And I woke up shaking with the presence of the Lord.   
-
+As I walked through the crowd,  I was saying in my spirit with the Lord speaking to me from Isaiah 66:7-9 "Before she was in labor she gave birth, does God bring you to the moment of birth and not cause delivery”.    And then the scene shifted, I heard the Lord speaking while standing on stage.  "Not by might or power but by the spirit of the Lord".    Zechariah 4: 6.   And in the dream Lou Engle a prophet in the United States that stood for the end of abortion for over 30 years hands me a mic on stage in front of thousands and thousands of people and I hear “speak this word” really loud.  Then I hear the Lord say "AS REVIVAL INCREASES, SO ABORTION WILL END". And I woke up shaking with the presence of the Lord.   \
+\
 God is preparing the bride of Christ for the greatest revival we have ever seen.  And part of that revival equals the ending of abortion.
 
 I believe with my whole heart that REVIVAL equals REPENTANCE
