@@ -10,7 +10,7 @@ tags:
 ---
 ![](https://esthersarise.org/img/76790712-0a77-4721-b229-b927170595b1.jpg)
 
-I almost shook out of my bed after a dream I had because  the presence of God came over me in the most intense way that I had not felt before.
+I almost shook out of my bed after a dream I had years ago because the presence of God came over me in the most intense way that I had not felt before.
 
 We were in a stadium gathering and I was hearing this word in my heart while walking from the crowd and suddenly I was standing on stage. \
 \
