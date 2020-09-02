@@ -5,7 +5,7 @@ image: /img/b-white-flowers.png
 ---
 ### Arise
 
-This is the hour that Esthers are rising up to do what they were created and called to do for such a time as this.  They are rising up to be true queens, prepared as a pure and spotless bride ready for their bridegroom, Jesus Christ’s  return.  They are rising up from the wilderness leaning on Him.  They are rising to be a voice in this hour. They are birthing thier promises and what had said.   They are rising up out of shame and defeat and fear into the fullness of their destinies.  This is the hour to come up out of hiding and rise and shine.
+This is the hour that Esthers are rising up to do what they were created and called to do for such a time as this.  They are rising up to be true queens, prepared as a pure and spotless bride ready for their bridegroom, Jesus Christ’s  return.  They are rising up from the wilderness leaning on Him.  They are rising to be a voice in this hour. They are birthing thier promises and what the Father has said.   They are rising up out of shame and defeat and fear into the fullness of their destinies.  This is the hour to come up out of hiding and rise and shine.
 
 ### Overcome
 
