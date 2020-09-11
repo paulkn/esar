@@ -14,7 +14,19 @@ Many women have been fighting for their lives, fighting for their destinies, and
 
 The Father is keeping His promises to His daughters. 
 
-He is faithful to the end, and His words are true the promise of overcoming the promise of restoration of what was lost the promise of healing taking place and captives being set free  the promise of answered prayer the promise of a revival among women Esther fasted and prayed to change a nation. 
+He is faithful to the end, and His words are true 
+
+the promise of overcoming 
+
+the promise of restoration of what was lost 
+
+the promise of healing taking place and captives being set free  
+
+the promise of answered prayer, 
+
+the promise of a revival among women 
+
+I had a dream in 2017 where I was declaring “ Esther fasted and prayed to change a nation” and I hear the Lord audibly speak back to me “ you are an Esther and you will change a nation”
 
 In the same way, the Lord is saying to His daughters in this hour, “You are an Esther and you will change a nation!”
 
