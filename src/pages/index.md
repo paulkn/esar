@@ -21,7 +21,7 @@ Many women have been fighting for their lives, fighting for their destinies, and
 
 The time is now!
 
-The Father is keeping His promises to His daughters. He is faithful to the end, and His words are true
+The Father is keeping His promises to His daughters. He is faithful to the end, and His words are true:
 
 * the promise of overcoming 
 * the promise of restoration of what was lost 
