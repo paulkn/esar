@@ -13,7 +13,7 @@ Esthers are empowered to overcome every obstacle!  They pass the tests, persever
 
 ### Saying Yes
 
-Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily and willingly obeys Jesus and loves him wholeheartedly.  They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.
+Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.  They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.
 
 # TEAM
 
