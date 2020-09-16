@@ -5,7 +5,7 @@ image: /img/b-white-flowers.png
 ---
 # **Intercession and Worship**
 
-## Raleigh, NC - 09/12/2020
+## Raleigh, NC - 10/10/2020
 
 **A day for the watchwomen to come together for intercession & worship for America**
 
@@ -17,4 +17,4 @@ We are women that travail and cry out together.
 
 The time is now.
 
-<button class="btn is-pulled-right" onclick="document.location='https://givebutter.com/esthers-arise-raleigh'">Register</button>
+<button class="btn is-pulled-right" onclick="document.location='https://givebutter.com/EA-Raliegh-1010'">Register</button>
