@@ -3,13 +3,13 @@ templateKey: index-page
 title: Women Arising
 image: /img/esthersbgs.jpg
 ---
-## Overcoming and saying ‘yes’ to Jesus at all costs.
+## Overcoming and saying ‘yes’ to Jesus at all costs!
 
 Would she, could she dare to rise again?
 
 Shame kept her silent, and fear that she would never be protected again had paralyzed her. It did not make any sense - why her and why so much pain? 
 
-### What was she really up against?  Was the enemy trying to steal her very destiny?
+### What was she really up against? Was the enemy trying to steal her very destiny?
 
 Was she going to be that warrior she had dreamed about? Armor on, sword in hand, unafraid of anything...
 
