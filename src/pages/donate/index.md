@@ -3,7 +3,7 @@ templateKey: donate-page
 title: Donate
 image: /img/b-white-flowers.png
 ---
-### Partner with Us
+### We would love to have you partner with us!
 
 Thank you so much for partnering with us! Please click the button below to go to our donation platform (givebutter).
 
