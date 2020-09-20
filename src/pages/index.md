@@ -3,17 +3,17 @@ templateKey: index-page
 title: Women Arising
 image: /img/esthersbgs.jpg
 ---
-## Overcoming and saying ‘yes’ to Jesus at all costs!
+## Overcoming and saying ‘yes’ to Jesus
 
-Would she, could she dare to rise again?
+_Would she, could she dare to rise again?_
 
-Shame kept her silent, and fear that she would never be protected again had paralyzed her. It did not make any sense - why her and why so much pain? 
+_Shame kept her silent, and fear that she would never be protected again had paralyzed her. It did not make any sense - why her and why so much pain?_ 
 
 ### What was she really up against? Was the enemy trying to steal her very destiny?
 
-Was she going to be that warrior she had dreamed about? Armor on, sword in hand, unafraid of anything...
+_Was she going to be that warrior she had dreamed about? Armor on, sword in hand, unafraid of anything..._
 
-Was she going to hold on to the word of God in her heart, the things He had spoken to her, and the dreams and visions He had given her?
+_Was she going to hold on to the word of God in her heart, the things He had spoken to her, and the dreams and visions He had given her?_
 
 ### How could she say yes and rise?
 
@@ -31,7 +31,7 @@ The Father is keeping His promises to His daughters. He is faithful to the end, 
 
 Esther fasted and prayed to change a nation. In the same way, the Lord is saying to His daughters in this hour, “You are an Esther and you will change a nation!”
 
-Daughters of the Father: Together, will you rise?
+### Daughters of the Father, will you rise?
 
 Together, we _will_ rise!
 
