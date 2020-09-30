@@ -13,4 +13,4 @@ We are in a moment in history when it is critical for us to stand in the gap on 
 
 Calling forth the intercessors...we are women who travail and cry out together! The time is now!
 
-<button class="btn is-pulled-right" onclick="document.location='https://givebutter.com/EA-Raliegh-1010'">Register</button>
+<button class="btn is-pulled-right" onclick="document.location='https://givebutter.com/EA-Raleigh-1010'">Register</button>
