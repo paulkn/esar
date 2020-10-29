@@ -5,15 +5,13 @@ image: /img/esthersbgs.jpg
 ---
 ## Overcoming and saying ‘yes’ to Jesus
 
-_Would she, could she dare to rise again?_
+_Would she, could she dare to rise?_
 
-_Shame kept her silent, and fear that she would never be protected again had paralyzed her. It did not make any sense - why her and why so much pain?_ 
-
-### What was she really up against? Was the enemy trying to steal her very destiny?
+### What was she really up against? 
 
 _Was she going to be that warrior she had dreamed about? Armor on, sword in hand, unafraid of anything..._
 
-_Was she going to hold on to the word of God in her heart, the things He had spoken to her, and the dreams and visions He had given her?_
+_Was she going to hold on to the WORD of God in her heart, the things He had spoken to her, and the dreams and visions He had given her?_  
 
 ### How could she say yes and rise?
 
@@ -21,7 +19,7 @@ Many women have been fighting for their lives, fighting for their destinies, and
 
 The time is now!
 
-The Father is keeping His promises to His daughters. He is faithful to the end, and His words are true:
+The Father God is keeping His promises to His daughters. He is faithful to the end, and His words are true:
 
 * The promise of overcoming 
 * The promise of restoration of what was lost 
