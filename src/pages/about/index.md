@@ -15,6 +15,8 @@ Esthers are empowered to overcome every obstacle!  They pass the tests, persever
 
 Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.  They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.
 
+The mission of Esthers Arise is to empower women to fulfill God's promises in their lives through preparation, partnership, and obedience to our Lord Jesus Christ. 
+
 # Our Team
 
 ![](/img/knopp-family-w.jpeg "Paul & Nancy")
@@ -23,8 +25,14 @@ Saying yes means laying down your life for Jesus at all costs. Esthers voluntari
 
 Paul and Nancy Knopp met at the International House of Prayer in Kansas City. Paul is from Virginia and Nancy is from Ontario, Canada. They have both been in leadership with local churches, movements, campuses, and praying communities for over 20 years.
 
-Paul and Nancy feel called to raise up women who will stand as watchwomen on the wall of intercession and be voices in the nations for righteousness and truth. The desire of the Lord's heart for women to be released and be set free from bondage in this hour is critical to the fullness of what God is doing in the earth and how He is making His bride ready for the return of Jesus.
+Paul and Nancy are called to raise up women who will stand as watchwomen on the wall of intercession and be voices in the nations for righteousness and truth. The desire of the Lord's heart for women to be released and be set free from bondage in this hour is critical to the fullness of what God is doing in the earth and how He is making His bride ready for the return of Jesus.
 
-The mission of Esthers Arise is to empower women to fulfill God's promises in their lives through preparation, partnership, and obedience to our Lord Jesus Christ. \
-\
-Paul and Nancy reside in Raleigh, North Carolina and have two sons.
+Paul and Nancy love the word of God, worship, coffee dates, biking, and thier family.  They reside in Raleigh, North Carolina and have two sons.
+
+![](/img/b1eb2b9d-660d-435e-95cb-5b5fcb617c47.jpeg)
+
+## **LEANNE NAFF**
+
+## WORSHIP INTERCESSORY DIRECTOR
+
+LeAnne is a prophetic worshiper, speaker, and author who is called to establish houses of prayer reflecting the harp and bowl model described in Revelation 5:8 to fuel the worship and prayer movement in the earth, to be a voice for the voiceless, and to partner with the Lord in preparing the Bride for the Lord’s return. LeAnne is passionate about seeing the brokenhearted restored and empowering women to step into the fulfillment of their purpose and destiny as Daughters of the King. LeAnne lives in Henry, VA, loves strong coffee, laughter, journaling, prayer retreating, creating music, and writing songs for her Beloved.
