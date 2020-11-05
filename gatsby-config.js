@@ -2,9 +2,9 @@ var proxy = require('http-proxy-middleware')
 
 module.exports = {
   siteMetadata: {
-    title: 'Esthers Arise : Overcome And Live Out Gods Promises',
+    title: 'Site Title',
     description:
-      'An Army of Women Arising',
+      'Site Description',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -64,7 +64,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-150412403-1",
+        trackingId: "UA-YourGA",
       },
     },
     {
