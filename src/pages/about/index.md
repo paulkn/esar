@@ -25,7 +25,7 @@ The mission of Esthers Arise is to empower women to fulfill God's promises in th
 
 Paul and Nancy Knopp met at the International House of Prayer in Kansas City. Paul is from Virginia and Nancy is from Ontario, Canada. They have both been in leadership with local churches, movements, campuses, and praying communities for over 20 years.
 
-Paul and Nancy are called to raise up women who will stand as watchwomen on the wall of intercession and be voices in the nations for righteousness and truth. The desire of the Lord's heart for women to be released and be set free from bondage in this hour is critical to the fullness of what God is doing in the earth and how He is making His bride ready for the return of Jesus.
+Paul and Nancy are called to raise up the body of Christ who will stand as watchmen and watchwomen on the wall of intercession and be voices in the nations for righteousness and truth. The desire of the Lord's heart for the body of Christ to be released and be set free from bondage in this hour is critical to the fullness of what God is doing in the earth and how He is making His bride ready for the return of Jesus.
 
 Paul and Nancy love the word of God, worship, coffee dates, biking, and thier family.  They reside in Raleigh, North Carolina and have two sons.
 
