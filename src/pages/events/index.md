@@ -15,7 +15,4 @@ We are in a moment in history when it is critical for us to stand in the gap on 
 
 Calling forth the intercessors...we are women who travail and cry out together! The time is now!
 
-# \
-Register :
-
-# https://givebutter.com/EAMartinsville-0109
+<button class="btn is-pulled-right" onclick="document.location='https://givebutter.com/EAMartinsville-0109'">Register</button>
