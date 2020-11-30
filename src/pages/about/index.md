@@ -19,7 +19,7 @@ The mission of Esthers Arise is to empower women to fulfill God's promises in th
 
 # Our Team
 
-![](/img/knopp-family-w.jpeg "Paul & Nancy")
+![](/img/89a007a9-865d-4cb7-9e28-395279fc8fd9.jpeg "Paul & Nancy")
 
 ### PAUL & NANCY
 
