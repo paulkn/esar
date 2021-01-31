@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Double Portion anointing
+title: Double Portion Twins
 date: 2021-02-03T03:58:53.042Z
 description: Calling forth the Esther’s and Hannah’s together!
 featuredpost: true
