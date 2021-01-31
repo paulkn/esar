@@ -8,7 +8,7 @@ featuredimage: /img/b9f267cc-1fc4-4c09-b643-51f6fe248c98.png
 tags:
   - Hannah Esther children end abortion voice prayer travail
 ---
-## I am hearing the Lord speak to me about a double portion anointing  birthed like twins!  He told me that their names are Hannah and Haddasah ( also known as Esther)
+## I am hearing the Lord speak to me about a double portion anointing  birthed like twins!  He told me that their names are Hannah and Haddasah (also known as Esther)
 
 ## I hear the Lord speaking -
 
@@ -18,10 +18,16 @@ tags:
 
 ## 
 
-## I am calling you forth for you Esther never thought you come to this day without parents.  For the spirit of Jezebel has tried to shut your down  and put you in the closet to silence you.  But you will be will be used as a voice to help end abortion and rescue many children.
+## I am calling you forth Esther for you never thought you come to this day.   For the spirit of Jezebel has tried to shut you down  and put you in the closet to silence you.  But you will now be used as a voice to help end abortion and rescue many children.
 
 ## 
 
-## I am calling forth the weeping Hannah’s  and the voice of Esther’s ( Haddasah).
+## I am calling forth the weeping Hannah’s  and the voice of Esther....(Haddasah)
 
-## Thw double portion anointing of Hannah’s tears for children and Esther’s voice for justice will be birthed as twins to confront the spirit of Jezebel .    This is the of God to rescue many children and babies not yet born.
+## The double portion anointing of Hannah’s tears for children and Esther’s voice for justice are the double portion twins thay will confront the spirit of Jezebel I this day This is Gods end time strategy to rescue many children and babies not yet born.
+
+
+
+## Esther 4:14 
+
+## 1 Samuel 1:10-11
