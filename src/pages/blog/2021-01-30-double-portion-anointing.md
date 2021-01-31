@@ -26,7 +26,9 @@ tags:
 
 ## The double portion anointing of Hannah’s tears for children and Esther’s voice for justice are the double portion twins thay will confront the spirit of Jezebel I this day This is Gods end time strategy to rescue many children and babies not yet born.
 
-## Esther 4:14
+## Esther 4:14:“For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father’s house will perish. And who knows whether you have not come to the kingdom for such a time as this?”
+
+## ‭‭
 
 ## 1 Samuel 1:10-11:“She was deeply distressed and prayed to the Lord and wept bitterly. “And she vowed a vow and said, “O Lord of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the Lord all the days of his life, and no razor shall touch his head.””
 
