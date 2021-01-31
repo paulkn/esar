@@ -8,7 +8,7 @@ featuredimage: /img/b9f267cc-1fc4-4c09-b643-51f6fe248c98.png
 tags:
   - Hannah Esther children end abortion voice prayer travail
 ---
-## I am hearing the Lord speak to me about a double portion anointing  birthed like twins!  He told me that their names are Hannah and Haddasah (also known as Esther) 
+## I am hearing the Lord speak to me about a double portion anointing  twins that are coming forth in the Spirit!  He told me that their names are Hannah and Haddasah (also known as Esther)
 
 ## I hear the Lord speaking -
 
