@@ -8,7 +8,13 @@ featuredimage: /img/267d7f33-7fe9-4ff6-aa56-da87fd4e9548.jpeg
 tags:
   - Rose of Sharon esthers Arise movement bride of Christ  Esthers arise
 ---
-# I had a vision /dream of women weeping and wailing before me and one of the women’s name was Sharon.  Now Sharons name means “ fertile one” And I can hear the Lord saying “bride I sees you in your tears”
+# I had a vision /dream of women weeping and wailing before me and one of the women’s name was Sharon.  Now Sharons name means “ fertile one.” 
+
+
+
+
+
+# And I can hear the Lord saying “bride I sees you in your tears”
 
 # 
 
