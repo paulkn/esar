@@ -26,8 +26,8 @@ tags:
 
 ## The double portion anointing of Hannah’s tears for children and Esther’s voice for justice are the double portion twins thay will confront the spirit of Jezebel I this day This is Gods end time strategy to rescue many children and babies not yet born.
 
+## Esther 4:14
 
+## 1 Samuel 1:10-11:“She was deeply distressed and prayed to the Lord and wept bitterly.”
 
-## Esther 4:14 
-
-## 1 Samuel 1:10-11
+## ‭‭
