@@ -21,8 +21,4 @@ The time is now!
 
 Register by March 10th
 
-See link
-
-```
-https://givebutter.com/EA-Raleigh-03132021
-```
+<button class="btn is-pulled-right" onclick="document.location='https://givebutter.com/EA-Raleigh-03132021'">Register</button>
