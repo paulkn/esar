@@ -14,15 +14,15 @@ tags:
 
 ## The Hannah’s and Haddasah twins are being birthed in this hour!
 
-## I am calling  you forth you who have had no children!  You who have lost much!  You have tried to not look at the fact that you are barren in your circumstances  but God himself has called you!    For many many dreams are coming forth.  For I tell you that  in a moment your Samuel will come forth with a voice that cannot be stopped.
+## He is  calling  you forth you who have had no children!  You who have lost much!  You have tried to not look at the fact that you are barren in your circumstances  but God himself has called you!    For many many dreams are coming forth.  For I tell you that  in a moment your Samuel will come forth with a voice that cannot be stopped.
 
 ## 
 
-## I am calling you forth Esther for you never thought you come to this day.   For the spirit of Jezebel has tried to shut you down  and put you in the closet to silence you.  But you will now be used as a voice to help end abortion and rescue many children.
+## He is calling you forth Esther for you never thought you come to this day.   For the spirit of Jezebel has tried to shut you down  and put you in the closet to silence you.  But you will now be used as a voice to help end abortion and rescue many children.
 
 ## 
 
-## I am calling forth the weeping Hannah’s  and the voice of Esther....(Haddasah)
+## He is calling forth the weeping Hannah’s  and the voice of Esther....(Haddasah)
 
 ## 
 
