@@ -11,11 +11,11 @@ This is the hour that Esthers are rising up to do what they were created and cal
 
 Esthers are empowered to overcome every obstacle!  They pass the tests, persevere, and are set free, healed, and delivered. Esthers birth God’s promises and dreams.   Esthers will cry and intercede together in the courtroom of heaven for the greatest harvest we have ever seen.  They will expose wickedness and be a voice for righteousness.  This includes being a voice for children, the vulnerable, and the unborn.  Esthers will open their mouth and expose deception (the Haman spirit) in the nations. 
 
-### Birthing Gods Promises -Saying Yes
+### Saying yes and birthing Gods promises 
 
-Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.    They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.
-
-The mission of Esthers Arise is to empower women to birth God's promises in their lives through preparation, partnership, and obedience to our Lord Jesus Christ. 
+Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.    They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.\
+\
+It is our desire to empower you to know who you are in your identity as a daughter, see you rise in your calling to overcome that by saying yes to Jesus wholeheartedly.   You will give birth to your promises  through preparation, partnership, and obedience to our Lord Jesus Christ. 
 
 # Our Team
 
