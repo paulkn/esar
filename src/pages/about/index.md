@@ -15,7 +15,7 @@ Esthers are empowered to overcome every obstacle!  They pass the tests, persever
 
 Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.    They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.\
 \
-It is our desire to empower you to know who you are in your identity as a daughter, see you rise in your calling to overcome that by saying yes to Jesus wholeheartedly.   You will give birth to your promises  through preparation, partnership, and obedience to our Lord Jesus Christ. 
+It is our desire to empower you to know who you are in your identity as a daughter, and see you rise in your calling and  overcome.   By saying yes to Jesus wholeheartedly,  you will give birth to your promises.
 
 # Our Team
 
