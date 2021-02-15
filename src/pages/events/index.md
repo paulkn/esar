@@ -1,7 +1,7 @@
 ---
 templateKey: events-page
 title: Events
-image: /img/IMG_8424c.jpeg
+image: /img/events.jpeg
 ---
 # **Esthers Arise Intercession and Worship near Raleigh NC - March 13th/2021**
 
