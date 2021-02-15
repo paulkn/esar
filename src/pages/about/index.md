@@ -29,7 +29,7 @@ Paul and Nancy Knopp met at the International House of Prayer in Kansas City. Pa
 
 Paul and Nancy are called to raise up the body of Christ who will stand as watchmen and watchwomen on the wall of intercession and be voices in the nations for righteousness and truth. The desire of the Lord's heart for the body of Christ to be released and be set free from bondage in this hour is critical to the fullness of what God is doing in the earth and how He is making His bride ready for the return of Jesus.
 
-Nancy is author of Esthers Arise, which empowers and releases women in their callings and purposes for such a time as this.
+Nancy is author of Esthers Arise, which empowers and releases women be activated in their callings and purposes for such a time as this.
 
 Paul and Nancy love the word of God, worship, coffee dates, biking, and their family.  They reside in Raleigh, North Carolina and have two sons.
 
