@@ -5,7 +5,7 @@ image: /img/home.jpeg
 ---
 # JOIN THE ESTHERS ARISE MOVEMENT
 
-### The Esthers Arise movement has a vision to mobilize and activate women across the nations to arise and take action for such a time as this.
+### The Esthers Arise Movement has a vision to mobilize and activate women across the nations to arise and take action for such a time as this.
 
 ### By joining the Esthers Arise Movement you can choose to be a part of a  Esthers Arise study which will activate and prepare you as  "Esther" to release you in your calling and destiny.  You will  also receive a Esthers Arise ebook to empower you to arise, get activated, and take action.
 
