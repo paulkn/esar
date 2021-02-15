@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: About
-image: /img/b-white-flowers.png
+image: /img/about.jpg
 ---
 ### Arise
 
