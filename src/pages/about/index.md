@@ -9,13 +9,13 @@ This is the hour that women are RISING UP to do what they were created and calle
 
 ### Activate
 
-Esthers are ACTIVATED to overcome every obstacle!  They pass the tests, persevere, and are set free, healed, and delivered. They prepare in the wilderness seasons, and spend time with Jesus in the secret place of prayer and intercession.    Esthers cry and intercede together in the courtroom of heaven for the greatest harvest we have ever seen.  They expose wickedness and are a voice for righteousness.  This includes being a voice for children, the vulnerable, and the unborn.  Esthers will open their mouth and expose deception (the Haman spirit) in the nations. 
+Esthers are ACTIVATED to overcome every obstacle!  They pass the tests, persevere, and are set free, healed, and delivered. They prepare in the wilderness seasons, and spend time with Jesus in the secret place of prayer and intercession.    Esthers cry and intercede together in the courtroom of heaven for the greatest harvest we have ever seen.  They expose wickedness and are a voice for righteousness.  This includes being a voice for children, the vulnerable, and the unborn.  Esthers will open their mouth and expose deception in the nations. 
 
 ### Action
 
 Esthers are women who take ACTION  laying down their life for Jesus in sharing the gospel and saving a people group.  Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.    Esthers take ACTION even when faced with loss or death. They do not shrink back.  They will boldly stand for righteousness and justice.  Esthers birth God’s promises and dreams. 
 
-OUR MISSION: It is our desire to equip and activate you to know who you are in your identity as a daughter, to see you rise in your calling as the Bride, by taking action to fulfill your promises and dreams.
+OUR MISSION: It is our desire to equip and activate you to know who you are in your identity as a daughter, to see you rise in your calling as the Bride of Jesus Christ, by taking action to fulfill your promises and dreams.
 
   Our Team
 
