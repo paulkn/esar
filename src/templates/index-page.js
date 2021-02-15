@@ -39,11 +39,13 @@ export const IndexPageTemplate = ({ title, content, contentComponent, image}) =>
               <div className="text-loop">
                 <h2 style={{ textAlign: "center" }}>
                   <TextLoop>
-                      <div>Destined To Overcome</div>
-                      <div>Birthing God's Promises</div>
-                      <div>For Such A Time As This!</div>
+                      <div></div>
+                      <div></div>
+                      <div></div>
                   </TextLoop>
                 </h2>
+                <h2>ACTIVATING Women To ARISE And Take ACTION</h2>
+                <h2>For Such A Time As This!</h2>
               </div>
               <div className="arrow-wrap">
               <Link
