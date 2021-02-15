@@ -3,36 +3,18 @@ templateKey: index-page
 title: Women Arising
 image: /img/esthersbgs.jpg
 ---
-## Overcoming and saying ‘yes’ to Jesus
+JOIN THE ESTHERS ARISE MOVEMENT
 
-_Would she, could she dare to rise?_
+The Esthers Arise movement has a vision to mobilize and activate women across the nations to arise and take action for such a time as this. 
 
-### What was she really up against? 
+By joining the Esthers movement you can choose to be a part of a private Esthers Arise study to activate and prepare you as the bride of Christ ready and prepared for this time.  You will  also receive a Esthers Arise ebook to empower you to arise and overcome. 
 
-_Was she going to be that warrior she had dreamed about? Armor on, sword in hand, unafraid of anything..._
+After signing up, you will be connected to other women and ministries and hear of what God is doing  with other women in the nation.
 
-_Was she going to hold on to the WORD of God in her heart, the things He had spoken to her, and the dreams and visions He had given her?_  
+The Esthers Arise movement is currently hosting in person worship and prayer gatherings on a regular basis to activate you to prayer and fasting in your region and America. 
 
-### How could she say yes and rise?
+See event page fo next event. 
 
-Many women have been fighting for their lives, fighting for their destinies, and looking to the Lord for their breakthrough.
 
-The time is now!
 
-The Father God is keeping His promises to His daughters. He is faithful to the end, and His words are true:
-
-* The promise of overcoming 
-* The promise of restoration of what was lost 
-* The promise of healing taking place and captives being set free  
-* The promise of answered prayers
-* The promise of a revival among women 
-
-Esther fasted and prayed to change a nation. In the same way, the Lord is saying to His daughters in this hour, “You are an Esther and you will change a nation!”
-
-### Daughters of the Father, will you rise?
-
-Together, we _will_ rise!
-
-The Father knows that you have been called _for such a time as this_. The Lord is inviting all women to rise up, overcome, and say “yes” to Jesus at all costs.
-
-### Esthers, arise!
+##
