@@ -5,17 +5,19 @@ image: /img/b-white-flowers.png
 ---
 ### Arise
 
-This is the hour that Esthers are rising up to do what they were created and called to do for such a time as this. They are rising up to be true queens, prepared as a pure and spotless bride ready for their bridegroom, Jesus Christ’s return. They are rising up from the wilderness leaning on Him. They are rising to be a voice in this hour. They are birthing their promises and what the Father has spoken over their lives. They are rising up out of shame, defeat, and fear to step into the fullness of their destinies. This is the hour to come out of hiding to rise and shine.
+This is the hour that Esthers are rising up to do what they were created and called to do for such a time as this. They are rising up to be  queens, prepared as a pure and spotless bride ready for their bridegroom, Jesus Christ’s return. They are rising up from the wilderness leaning on Him. They are rising to be a voice in this hour. They are rising up out of shame, defeat, and fear to step into the fullness of their destinies. This is the hour to come out of hiding to rise and shine.
 
-### Overcome
+### Activate
 
-Esthers are empowered to overcome every obstacle!  They pass the tests, persevere, and are set free, healed, and delivered. Esthers birth God’s promises and dreams.   Esthers will cry and intercede together in the courtroom of heaven for the greatest harvest we have ever seen.  They will expose wickedness and be a voice for righteousness.  This includes being a voice for children, the vulnerable, and the unborn.  Esthers will open their mouth and expose deception (the Haman spirit) in the nations. 
+Esthers are  ACTIVATED to overcome every obstacle!  They pass the tests, persevere, and are set free, healed, and delivered. They prepare in the wilderness seasons, and spend time with Jesus in the secret place of prayer and intercession.    Esthers cry and intercede together in the courtroom of heaven for the greatest harvest we have ever seen.  They expose wickedness and are a voice for righteousness.  This includes being a voice for children, the vulnerable, and the unborn.  Esthers will open their mouth and expose deception (the Haman spirit) in the nations. 
 
-### Saying yes and birthing Gods promises 
+### Action
 
-Saying yes means laying down your life for Jesus at all costs. Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.    They will not shrink back even when faced with loss or death.  They will boldly proclaim the gospel and expose the counterfeit even if it costs them their life.\
+Taking ACTION means laying down your life for Jesus in sharing the gospel and saving a people group.  Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.    They will not shrink back, and take ACTION even when faced with loss or death.  They will boldly stand for righteousness and justice.  Esthers birth God’s promises and dreams. \
 \
-It is our desire to empower you to know who you are in your identity as a daughter, and see you rise in your calling and  overcome.   By saying yes to Jesus wholeheartedly,  you will give birth to your promises.
+It is our desire to equip and activate you to know who you are in your identity as a daughter, and see you rise in your calling to take action in birthing your promises. 
+
+  By saying yes to Jesus wholeheartedly,  you will give birth to your promises.
 
 # Our Team
 
