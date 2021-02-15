@@ -13,7 +13,7 @@ Esthers are ACTIVATED to overcome every obstacle!  They pass the tests, persever
 
 ### Action
 
-Women who take ACTION  laying down their life for Jesus in sharing the gospel and saving a people group.  Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.    Esthers take ACTION even when faced with loss or death. They do not shrink back.  They will boldly stand for righteousness and justice.  Esthers birth God’s promises and dreams. 
+Esthers are women who take ACTION  laying down their life for Jesus in sharing the gospel and saving a people group.  Esthers voluntarily and willingly obey Jesus and love him wholeheartedly.    Esthers take ACTION even when faced with loss or death. They do not shrink back.  They will boldly stand for righteousness and justice.  Esthers birth God’s promises and dreams. 
 
 OUR MISSION: It is our desire to equip and activate you to know who you are in your identity as a daughter, to see you rise in your calling as the Bride, by taking action to fulfill your promises and dreams.
 
