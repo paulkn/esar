@@ -1,7 +1,7 @@
 ---
 templateKey: donate-page
 title: Donate
-image: /img/b-white-flowers.png
+image: /img/donate.jpg
 ---
 ### Thank you for partnering with us!
 
