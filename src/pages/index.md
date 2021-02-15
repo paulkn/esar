@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: ESTHERS ARISE
-image: /img/IMG_8424.jpeg
+image: /img/home.jpeg
 ---
 # JOIN THE ESTHERS ARISE MOVEMENT
 
