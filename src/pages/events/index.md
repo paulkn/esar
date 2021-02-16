@@ -9,7 +9,7 @@ A day for women to come together, worship and pray for revival in America and th
 
 We are in a moment in history to stand in the gap on behalf of America. Children are being aborted every day! The time is now for Esthers to arise, fast and pray for the turning of America back to God. 
 
-You are not alone!  God is calling you to rise up, overcome, and birth your promises in this hour by saying yes to Jesus at all costs
+You are not alone!  God is calling you to be activated to rise and take action for such a time as this.
 
 Calling forth the intercessors!
 
