@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: About
-image: /img/about.jpg
+image: /img/group.jpeg
 ---
 ### Arise
 
