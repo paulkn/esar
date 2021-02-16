@@ -44,6 +44,22 @@ export class ContactPageTemplate extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
+                <div
+                  style={{
+                    display: 'flex',
+                    height: '80px',
+                    lineHeight: '1',
+                    justifyContent: 'space-around',
+                    alignItems: 'left',
+                    flexDirection: 'column',
+                  }}
+                >
+                  <h1
+                    className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+                  >
+                    {title}
+                  </h1>
+                </div>
               <form
                 name="contact"
                 method="post"
