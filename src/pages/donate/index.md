@@ -1,7 +1,7 @@
 ---
 templateKey: donate-page
 title: Donate
-image: /img/donate.jpg
+image: /img/donate2.jpeg
 ---
 ### Thank you for partnering with us!
 
