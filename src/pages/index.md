@@ -3,6 +3,12 @@ templateKey: index-page
 title: ESTHERS ARISE
 image: /img/home.jpeg
 ---
+# ACTIVATING women to ARISE and take ACTION
+
+# FOR SUCH A TIME AS THIS!</span>
+
+
+
 # JOIN THE ESTHERS ARISE MOVEMENT
 
 ### The Esthers Arise Movement has a vision to mobilize and activate women across the nations to arise and take action for such a time as this.
